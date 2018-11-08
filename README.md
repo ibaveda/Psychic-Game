@@ -2,7 +2,7 @@
 
 ### The idea of this game is for the user to guess which letter the computer chose.
 
-####There will be some basic info available onscreen:
+There will be some basic info available onscreen:
 
 *Wins: (# of times the user has guessed the letter correctly)
 
